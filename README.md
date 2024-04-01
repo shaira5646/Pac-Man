@@ -5,4 +5,4 @@ We created a layout with the Pacman, such as the one in the Pac-Man game. The ob
 
 We used GL lines to create the maze, 8-way symmetry, and GL triangles to create the Pacman, GL triangles and quad for ghosts and lives count, midpoint circle algorithm for the fruits, and the midpoint line algorithm for the score. Transformations like, reflection, rotation, and translation were used to make several copies of the same shape. This is the default layout.
 
-https://github.com/shaira5646/Pac-Man/blob/40dd93c1b0e29dc8af99b89b0cad9106be3c730f/Screenshots/Pac-Man.png
+![Pac-Man.png](https://github.com/shaira5646/Pac-Man/blob/40dd93c1b0e29dc8af99b89b0cad9106be3c730f/Screenshots/Pac-Man.png?raw=true)
